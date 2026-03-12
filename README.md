@@ -32,7 +32,7 @@ Spotify data spanning multiple years and platforms.
 > All screenshots are stored in the `images` folder
 
 ### Overview Page
-![Overview Page](images/overview-page.png)
+![Overview Page](images/overview_page.png)
 *Full dashboard view showing KPI cards, tracks table, daily and monthly stream trends and music attribute breakdown*
 
 ---
@@ -115,7 +115,7 @@ Spotify data spanning multiple years and platforms.
 Spotify-Music-Analysis/
 │
 ├── Images/
-│   └── overview-page.png
+│   └── overview_page.png
 │
 ├── Sportify_Analysis_Dashboard.pbix
 └── README.md
